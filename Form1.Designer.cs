@@ -41,6 +41,7 @@
             this.JsonButton1.TabIndex = 0;
             this.JsonButton1.Text = "Convert to Json";
             this.JsonButton1.UseVisualStyleBackColor = true;
+            this.JsonButton1.Click += new System.EventHandler(this.JsonButton1_Click);
             // 
             // ResumeLabel1
             // 

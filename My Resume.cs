@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace My_Resume_Json_to_PDF
 {
-    internal class My_Resume
+    public class My_Resume
     {
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string Gender { get; set; }
+        public string Address { get; set; }
+        public int ContactNumber { get; set; }
     }
 }
