@@ -13,6 +13,11 @@ namespace My_Resume_Json_to_PDF
         public int Age { get; set; }
         public string Gender { get; set; }
         public string Address { get; set; }
-        public int ContactNumber { get; set; }
+        public string ContactNumber { get; set; }
+        public string Email { get; set; }
+        public string College { get; set; }
+        public string Highschool { get; set; }
+        public string SeniorHighschool { get; set; }
+        public string Experiences { get; set; }
     }
 }

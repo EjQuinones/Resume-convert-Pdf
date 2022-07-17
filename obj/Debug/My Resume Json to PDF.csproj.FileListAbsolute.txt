@@ -9,3 +9,6 @@ C:\Users\Ej Quinones\Documents\2ND SEMESTTER\OBJECT- ORIENTED PROGRAMMING\My Res
 C:\Users\Ej Quinones\Documents\2ND SEMESTTER\OBJECT- ORIENTED PROGRAMMING\My Resume Json to PDF\obj\Debug\My Resume Json to PDF.csproj.CoreCompileInputs.cache
 C:\Users\Ej Quinones\Documents\2ND SEMESTTER\OBJECT- ORIENTED PROGRAMMING\My Resume Json to PDF\obj\Debug\My Resume Json to PDF.exe
 C:\Users\Ej Quinones\Documents\2ND SEMESTTER\OBJECT- ORIENTED PROGRAMMING\My Resume Json to PDF\obj\Debug\My Resume Json to PDF.pdb
+C:\Users\Ej Quinones\Documents\2ND SEMESTTER\OBJECT- ORIENTED PROGRAMMING\My Resume Json to PDF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ej Quinones\Documents\2ND SEMESTTER\OBJECT- ORIENTED PROGRAMMING\My Resume Json to PDF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ej Quinones\Documents\2ND SEMESTTER\OBJECT- ORIENTED PROGRAMMING\My Resume Json to PDF\obj\Debug\My Resume Json to PDF.csproj.CopyComplete

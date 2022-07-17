@@ -28,6 +28,11 @@ namespace My_Resume_Json_to_PDF
                 Gender = "Male",
                 Address = "204 BLPC Rd. 33 Bagong Pag Asa Quezon City",
                 ContactNumber = "09212873695",
+                Email = "ejquinones2@gmail.com",
+                Highschool = "San Francisco Highschool",
+                SeniorHighschool = "San Fracisco Highschool",
+                College = "Polytechnic University Of The Philippines",
+                Experiences = "introduction of computer troubleshooting, Phython, introduction of c#",
 
 
             };
