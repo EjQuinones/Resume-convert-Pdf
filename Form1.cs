@@ -36,6 +36,7 @@ namespace My_Resume_Json_to_PDF
                 SeniorHighschool = "San Fracisco Highschool",
                 College = "Polytechnic University Of The Philippines",
                 Experiences = "introduction of computer troubleshooting, Phython, introduction of c#",
+                Skills = "Computer Troubleshoot, Cyber Security Insttaller, Web developer"
 
 
             };
