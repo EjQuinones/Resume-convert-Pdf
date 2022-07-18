@@ -19,5 +19,6 @@ namespace My_Resume_Json_to_PDF
         public string Highschool { get; set; }
         public string SeniorHighschool { get; set; }
         public string Experiences { get; set; }
+       
     }
 }
