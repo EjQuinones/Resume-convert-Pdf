@@ -47,7 +47,7 @@ namespace My_Resume_Json_to_PDF
 
         private void ConvertPdfButton2_Click(object sender, EventArgs e)
         {
-            using (SaveFileDialog sfd = new SaveFileDialog() { Filter = "PDF File|*.pdf, ValidateNames = True " })
+            using (SaveFileDialog sfd = new SaveFileDialog() { Filter = " My Resume, ValidateNames = True " })
             {
                 if (sfd.ShowDialog() == DialogResult.OK)
                 {
